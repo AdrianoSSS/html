@@ -1,0 +1,33 @@
+<!DOCTYPE HTML> -> manda informação para o navegador informação sobre a versão do HTML que está sendo usada.
+<HTML> -> todas a TASS estarão dentro do HTML
+<HEAD> -> cabeçalho
+<TITLE> TESTE </TITLE> -> Especifica título
+ <H1> Título de nível 1 </H1>
+ <H2> Título de nível 2 </H2>
+ <H3> Título de nível 3 </H3>
+ <H4> Título de nível 4 </H4>
+ <H5> Título de nível 5 </H5>
+ <H6> Título de nível 6 </H6>
+<META CHARSET="UTP-8"/> -> traz possibilidades sobre o uso do código ASC
+</HEAD>
+<BODY BGCOLOR = "000000" TEXT = "BLUE">     MACROMIDIA
+<P ALIGN = "CENTER"> <BJS> <BIS> SEJA BEM VINDO!  </BJS> </BIS> </P>   DREAMWEAVEN
+<TASS .....> <BJS> <BIS>
+</BODY>
+</HTML>
+<A HREF = "https://youtu.be/Xf1XB4HtFoI?si=vXyQ8Osi9_Vyr-Ln" > AQUI <\A>
+<P> </P>
+<A HREF = "DESENVOLVIMENTO DE SISTEMAS.PPTX"> DESENVOLVIMETO DE SISTEMAS 1 </A>
+<A HREF = "#PARAGRAFO3"> IR PARA O PARÁGRAFO 3 </A>
+          <!--OUTROS ELEMENTOS-->
+<P ID = "PARAGRAFO3" PARÁGRAFO NO RODAPÉ. </P>
+
+<TABLE>
+<TR>
+<TD> LINHA1, COLUNA1 <TD>
+<TD> LINHA1, COLUNA2 <TD>
+</TR>
+<TD> LINHA2, COLUNA1 <TD>
+<TD> LINHA2, COLUNA2 <TD>
+</TR>
+</TABLE>
