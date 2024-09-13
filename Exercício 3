@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Portal de Viagens</title>
+</head>
+<body>
+
+    <h1>Portal de Informações sobre Viagens</h1> <P ID = "Topo" Topo.>
+    <p>Deseja saber mais sobre os destinos? <A HREF = "#Imagens dos destinos">Clique aqui para ir à seção de destinos</a>.</p>
+    <p>Para reservar passagens, visite nosso parceiro <a href="#">Expedia</a>.</p>
+
+    <h2>Calendário de Promoções</h2>
+    <table border="1">
+        <tr>
+            <th>Mês</th>
+            <th>Promoção</th>
+            <th>Desconto</th>
+        </tr>
+        <tr>
+            <td>Janeiro</td>
+            <td>Promoção de Verão</td>
+            <td>30%</td>
+        </tr>
+        <tr>
+            <td>Julho</td>
+            <td>Promoção de Inverno</td>
+            <td>25%</td>
+        </tr>
+        <tr>
+            <td>Dezembro</td>
+            <td>Fim de Ano</td>
+            <td>40%</td>
+        </tr>
+    </table>
+
+    <h2>Imagens dos Destinos</h2> <P ID = "Imagens dos destinos" Imagens dos destinos.>
+    
+    <p><img src ="C:\Users\aluno.den\Downloads\Nova pasta\Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg" alt="Everest" title="everest" width="300" height="300"/></p>
+    <ul>
+        <li>Escaladas -> para os fanáticos por adrenalina.</li>
+    </ul>
+    <p><img src ="C:\Users\aluno.den\Downloads\Nova pasta\W-Maldives.jpg" alt="Maldivas" title="Maldivas"  width="300" height="300"/></p>
+    <ul>
+        <li>Praia tropical -> Um dos destinos mais procurados.</li>
+    </ul>
+    <p><img src ="C:\Users\aluno.den\Downloads\Nova pasta\Cidades-da-Franca.jpg" alt="Paris" title="Paris"  width="300" height="300"/></p>
+    <ul>
+        <li>Lua de mel -> Para os pombinhos.</li>
+    </ul>
+
+    <h2>Destinos Populares</h2>
+    <ul>
+        <li>Everest: O Monte Everest é a montanha mais alta do planeta Terra, chegando a 8.848 metros acima do nível do mar..</li>
+        <li>Maldivas:As Maldivas são uma nação tropical no Oceano Índico composta por 26 atóis em formato de anel, que são formados por mais de 1.000 ilhas de coral.</li>
+        <li>Paris: Cidade vibrante nos EUA, famosa por sua vida cultural, Times Square e a Estátua da Liberdade.</li>
+    </ul>
+
+    <h2>Entre em Contato</h2>
+    <form action="#" method="post">
+        <p>Nome Completo: <input type="text" name="nome"></p>
+        <p>E-mail: <input type="email" name="email"></p>
+        <p>Destino Preferido:
+            <select name="destino">
+                <option value="Everest">Everest</option>
+                <option value="Maldivas">Maldivas</option>
+                <option value="Paris">Paris</option>
+            </select>
+        </p>
+        <p>Mensagem: <textarea name="mensagem"></textarea></p>
+        <p><input type="submit" value="Enviar"></p>
+    </form>
+
+    <p><a href="#Topo">Voltar ao topo</a></p>
+
+</body>
+</html>
