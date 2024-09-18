@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Portal dos memes</title>
+</head>
+<body Bgcolor = "000000" text = "blue">
+<p Align = "center"><big>Seja bem vindo!</big></p>
+<script>
+    alert("Verifique sua proteção, este site não é confiável")
+</script>
+</body>
+</html>
+
+<!--<audio controls src= "C:\Users\aluno.den\Downloads\lula-alexandre-de-moraes.mp3"></audio>
+</audio> <source src="C:\Users\aluno.den\Downloads\vai-novinha-lula-e-bolsonaro.mp3" type ="audio/ogg">  </audio>
+</audio> <source src = "C:\Users\aluno.den\Downloads\lula-feijao-puro-phonk.mp3" type = "audio/mpeg"> </audio>
+
+<video src ="C:\Users\aluno.den\Downloads\Faz o L(Mario).mp4" width = "500" heigth = "500" controls></video>
+</video><source src ="C:\Users\aluno.den\Downloads\Faz o L(Mario).mp4" width = "500" heigth = "500" type="video/webm" controls  ></video>
+</video><source src ="C:\Users\aluno.den\Downloads\Faz o L(Mario).mp4" width = "500" heigth = "500" type="video/mp4" controls  ></video>
+-->
+<input type ="text" value="inpute 1">
+<input type ="text" value="inpute 2">
+<div><input type ="text" value="inpute 3"></div>
+<div><input type ="text" value="inpute 4"></div>
+<p> este é um texto com  um <span> trecho em destaque</span>.</p>
+<p>
+    este é um texto com um <span style = "background-color: aqua; border: 5px; padding: 5px;">
+    trecho em destaque</span>
+
+    
+</p>
+
+</body>
+</html>
